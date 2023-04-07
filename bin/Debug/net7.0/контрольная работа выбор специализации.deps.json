@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "контрольная работа выбор специализации/1.0.0": {
+        "runtime": {
+          "контрольная работа выбор специализации.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "контрольная работа выбор специализации/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
